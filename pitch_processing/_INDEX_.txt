@@ -1,0 +1,8 @@
+pitchProcess.py
+	original pitch processing code; gets positions at 25' and 22.5' for one specified file
+pitchProcess_2.py
+	version 2; gets spin axis in addition to positions at 25' and 22.5'
+pitchProcess_3.py
+	calculates and stores the position of the ball every half foot as well as the spin axis
+	separates by commas instead of tabs
+	includes header line starting with ##
